@@ -1,5 +1,5 @@
 Doc by `© Copyright 2010-2015 KPI FEI TUKE - Miroslav Biňas`  
-[URL DOCS](http://it4kt.cnl.sk/c/pvjc/#!/2015%252Fproblemset.04.k)  
+[URL DOCS](http://it4kt.cnl.sk/c/pvjc/2015/problemset.04.k.html)  
 Thanks!
 
 ***

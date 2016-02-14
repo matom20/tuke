@@ -1,5 +1,5 @@
 Doc by `© Copyright 2010-2015 KPI FEI TUKE - Miroslav Biňas`  
-[URL DOCS](http://it4kt.cnl.sk/c/pvjc/#!/2015%252Fproblemset.05.top.secret)  
+[URL DOCS](http://it4kt.cnl.sk/c/pvjc/2015/problemset.05.top.secret.html)  
 Thanks!
 
 ***
@@ -135,4 +135,4 @@ Funkcia vráti adresu kópie reťazca zašifrovanú resp. odšifrovanú pomocou 
  **Run:**
   `./top-secret`
 
-**Remove:** `make clean` 
+**Remove:** `make clean`

@@ -14,6 +14,11 @@ This project is like a game in 2048, but with a letter.
 [Go to the project!](https://github.com/matom20/tuke/tree/master/k)  
 [Docs!](https://github.com/matom20/tuke/blob/master/k/k.md)
 
+#### 3. Hangman
+The classic letter guessing game in console (with figure).  
+[Go to the project!](https://github.com/matom20/tuke/tree/master/hangman)  
+[Docs!](https://github.com/matom20/tuke/blob/master/hangman/hangman.md)
+
 ***
 
 ### SCREENSHOTS
